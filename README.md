@@ -1,0 +1,2 @@
+# Simple-ToDoApp
+Practicing JavaScript
